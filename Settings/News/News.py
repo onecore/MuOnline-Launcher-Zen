@@ -1,0 +1,1 @@
+'http://hacore.sourceforge.net/SlidesandNews/news.aspx'
